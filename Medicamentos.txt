@@ -1,0 +1,4 @@
+Codigo,NombreMedicamento,TipoMedicamento
+1,Paracetamol,Comprimido
+2,Ibuprofeno,Capsula
+123,Aspirina,Gratis
